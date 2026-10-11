@@ -1,4 +1,4 @@
-# Lecture Capture
+# LecNotes
 
 Turn a video lecture into ordered notes with one keypress per slide.
 
