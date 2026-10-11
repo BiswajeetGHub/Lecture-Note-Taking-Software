@@ -1,0 +1,6 @@
+customtkinter
+mss
+keyboard
+python-pptx
+python-docx
+pillow
